@@ -1,5 +1,10 @@
 # chocolate-sales-dashboard-powerbi
 A full Power BI analytics project visualizing chocolate sales across regions and salespersons. Includes KPI cards, trend analysis, shipment breakdown, profit metrics, and multi‑page interactive dashboards using DAX and data modeling.
+
+
+
+
+
 🟫 Chocolate Sales – Power BI Dashboard
 An interactive Power BI sales analytics project designed to visualize and analyze chocolate product performance across multiple regions, salespersons, and KPIs. This dashboard provides actionable insights into sales trends, shipments, costs, profits, and distribution effectiveness.
 
