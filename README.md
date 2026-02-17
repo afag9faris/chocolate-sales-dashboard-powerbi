@@ -22,6 +22,9 @@ Data Modeling & DAX: Measures for KPIs and performance ratios
 
 
  Key Features & Insights
+
+
+ 
 ✔ KPI Cards
 Displays real-time insights for:
 
@@ -31,12 +34,24 @@ Total Costs
 Total Profit
 Shipment KPIs
 
+
+
+
 ✔ Trend Visuals
 Analyze Sales, Boxes, Shipments, and Costs across the year.
+
+
+
 ✔ Regional & Salesperson Dashboard
 Breakdown of performance by regions and individual sales reps.
+
+
+
 ✔ Shipments Performance
 Bar chart showing shipment totals by boxes.
+
+
+
 ✔ Custom Navigation Menu
 Buttons for:
 
@@ -46,9 +61,15 @@ Shipments
 Costs
 Profit
 
+
+
+
 ✔ Gauge Visual
 Shows profit percentage performance.
 
+
+ 
+ 
  Tools & Technologies
 
 Power BI Desktop
