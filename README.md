@@ -1,94 +1,106 @@
-# chocolate-sales-dashboard-powerbi
-A full Power BI analytics project visualizing chocolate sales across regions and salespersons. Includes KPI cards, trend analysis, shipment breakdown, profit metrics, and multi‑page interactive dashboards using DAX and data modeling.
+Chocolate Sales Analytics Dashboard
+Project Overview
+This project presents an interactive Power BI dashboard built using a comprehensive chocolate products sales dataset.
+
+The dashboard delivers detailed visual analysis of:
+
+Product performance
+Regional sales distribution
+Profitability metrics
+Overall operational performance
+👥 Team Project
+This dashboard was developed as part of a collaborative team project with:
+
+Nusaiba kambal
+Arwa Hassan
+Nesreen Adam
+Sahar Hassan 
+We worked together across different stages
+
+Dashboard Preview:
+![WhatsApp Image 2026-01-31 at 22 00 45](https://github.com/user-attachments/assets/35c5257f-34e0-4614-bfaf-553f1c979f7e)
+KPI Cards
+Quick performance snapshot including:
+
+Total Sales: $34M
+Total Boxes Sold: 2M
+Shipments: 6K
+Total Profit: $14M
+Product Analysis
+Bar charts highlighting top-selling chocolate products by revenue.
+Product-level performance comparison.
+Regional Distribution
+Sales breakdown across:
+
+Australia
+Canada
+India
+New Zealand
+UK
+USA
+Profitability Analysis
+Product-wise profit percentage analysis.
+Identification of most profitable chocolate products.
+Time Series Analysis
+Monthly sales trends from March 2023 to January 2024.
+Clear visibility of seasonal performance patterns.
+Dynamic Slicer
+Interactive filtering by product or region.
+Enables flexible and customized data exploration.
+Skills & Tools Used
+Power BI – Dashboard development & visualization
+Data Modeling & DAX – KPI calculations & performance metrics
+Data Cleaning & Transformation – Ensuring data accuracy
+Dashboard Design Principles – Creating intuitive user experience
+Project Purpose
+Analyze chocolate product demand and sales trends
+Identify top-performing products by revenue and profitability
+Track regional sales performance across international markets
+Support data-driven decision-making
+Transform raw sales data into actionable insights
+🔗 Live Dashboard
 
 
+KPI Cards
+Quick performance snapshot including:
 
+Total Sales: $34M
+Total Boxes Sold: 2M
+Shipments: 6K
+Total Profit: $14M
+Product Analysis
+Bar charts highlighting top-selling chocolate products by revenue.
+Product-level performance comparison.
+Regional Distribution
+Sales breakdown across:
 
-
-🟫 Chocolate Sales – Power BI Dashboard
-An interactive Power BI sales analytics project designed to visualize and analyze chocolate product performance across multiple regions, salespersons, and KPIs. This dashboard provides actionable insights into sales trends, shipments, costs, profits, and distribution effectiveness.
-
-📊 Project Overview
-This Power BI report delivers a complete analytical view of chocolate sales performance.
-It includes:
-
-KPIs: Total Sales, Total Boxes, Total Costs, Shipment Counts, Profit
-Sales Trends: Monthly revenue, boxes sold, and cost fluctuations
-Shipments Analysis: Distribution volume by boxes
-Salesperson Performance: Ranking by sales, profit, and productivity
-Interactive Navigation: Multi‑page report with button‑based menu
-Custom Visuals: Gauge, line charts, bar charts, slicers, and multi‑row cards
-Data Modeling & DAX: Measures for KPIs and performance ratios
-
-
- Key Features & Insights
-
-
- 
-✔ KPI Cards
-Displays real-time insights for:
-
-Total Sales (e.g., $5M)
-Total Boxes
-Total Costs
-Total Profit
-Shipment KPIs
-
-
-
-
-✔ Trend Visuals
-Analyze Sales, Boxes, Shipments, and Costs across the year.
-
-
-
-✔ Regional & Salesperson Dashboard
-Breakdown of performance by regions and individual sales reps.
-
-
-
-✔ Shipments Performance
-Bar chart showing shipment totals by boxes.
-
-
-
-✔ Custom Navigation Menu
-Buttons for:
-
-Sales
-Boxes
-Shipments
-Costs
-Profit
-
-
-
-
-✔ Gauge Visual
-Shows profit percentage performance.
-
-
- 
- 
- Tools & Technologies
-
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Power Query
-Data Modeling
-Interactive Visual Design
-
-
-
-
-Purpose of the Project
-This project was created to demonstrate:
-
-Professional Power BI dashboard building
-KPI storytelling using visuals
-Understanding of sales trends and business insights
-Ability to model data and create DAX measures
-Portfolio‑ready business intelligence skills
+Australia
+Canada
+India
+New Zealand
+UK
+USA
+Profitability Analysis
+Product-wise profit percentage analysis.
+Identification of most profitable chocolate products.
+Time Series Analysis
+Monthly sales trends from March 2023 to January 2024.
+Clear visibility of seasonal performance patterns.
+Dynamic Slicer
+Interactive filtering by product or region.
+Enables flexible and customized data exploration.
+Skills & Tools Used
+Power BI – Dashboard development & visualization
+Data Modeling & DAX – KPI calculations & performance metrics
+Data Cleaning & Transformation – Ensuring data accuracy
+Dashboard Design Principles – Creating intuitive user experience
+Project Purpose
+Analyze chocolate product demand and sales trends
+Identify top-performing products by revenue and profitability
+Track regional sales performance across international markets
+Support data-driven decision-making
+Transform raw sales data into actionable insights
+🔗 Live Dashboard
 
 
 
